@@ -21,7 +21,8 @@
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+   <a href="https://instagram.com/xmrg3p5"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+   <a href="https://t.me/xmrg3p5"><img src="https://img.shields.io/badge/Telegram-%23118EEA.svg?logo=Telegram&logoColor=white"></a>
 <p>
 
 <br>
