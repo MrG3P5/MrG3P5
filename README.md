@@ -14,7 +14,7 @@
 👋 Hello I'm X - MrG3P5<br>📌 I'm Live on Jakarta<br>▫️ My Hobbies is Coding & Reverse Engineering & Pentesting
 </p>
 
-<br>
+<hr>
 
 <p align="center">
    <b>Socials</b>
@@ -23,9 +23,10 @@
 <p align="center">
    <a href="https://instagram.com/xmrg3p5"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
    <a href="https://t.me/xmrg3p5"><img src="https://img.shields.io/badge/Telegram-%23118EEA.svg?logo=Telegram&logoColor=white"></a>
+   <a href="https://wa.me/6289523258649"><img src="https://img.shields.io/badge/Whatsapp-%23017e40.svg?logo=Whatsapp&logoColor=white"></a>
 <p>
 
-<br>
+<hr>
 
 <p align="center">
    <b>Language</b>
@@ -42,7 +43,7 @@
    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <p>
 
-<br>
+<hr>
 
 <p align="center">
    <b>Github Stats</b>
