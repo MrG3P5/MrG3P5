@@ -11,7 +11,9 @@
 </p>
 
 <p align="center">
-👋 Hello I'm X - MrG3P5<br>📌 I'm Live on Jakarta<br>▫️ My Hobbies is Coding & Reverse Engineering & Pentesting
+   <li align="center">👋 Hello I'm X - MrG3P5</li>
+   <li align="center">📌 I'm Live on Jakarta</li>
+   <li align="center">▫️ My Hobbies is Coding & Reverse Engineering & Pentesting</li>
 </p>
 
 <hr>
@@ -51,6 +53,8 @@
 
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrG3P5&theme=dark&hide_border=false">
+   <br>
    <img src="https://github-readme-stats.vercel.app/api?username=MrG3P5&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
+   <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrG3P5&theme=dark&hide_border=false&include_all_commits=true&count_priva">
 </p>
