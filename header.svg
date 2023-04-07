@@ -1,5 +1,9 @@
-<style>
-    * {
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <style>
+        * {
         padding: 5px;
     }
 
@@ -45,9 +49,9 @@
     .a {
         border-radius: 25px;
     }
-</style>
+      </style>
 
-<p align="center">
+      <p align="center">
    <img style="width: 180px; height: 180px;" src="https://avatars.githubusercontent.com/u/57594747?s=400&u=da1eec8bf84a62a2ca11230d358dfac0bb000bcd&v=4" alt="png" width="128" height="128"/>
 </p>
 
@@ -144,3 +148,7 @@
    <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrG3P5&theme=dark&hide_border=false&include_all_commits=true&count_priva">
 </p>
+
+    </div>
+  </foreignObject>
+</svg>
