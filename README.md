@@ -6,10 +6,6 @@
     <a href="https://github.com/MrG3P5">
         <img title="X-MrG3P5" style="border-radius: 25px;" src="https://img.shields.io/badge/X MrG3P5-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
     </a>
-    <br>
-    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMrG3P5">
-        <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMrG3P5&label=VISITOR&labelColor=%2337d67a&countColor=%23d9e3f0&style=plastic&labelStyle=upper"/>
-    </a>
 </p>
 
 <hr>
