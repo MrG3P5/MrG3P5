@@ -1,49 +1,135 @@
+<style>
+    * {
+        padding: 5px;
+    }
+
+    .column {
+        padding: 0;
+        float: left;
+        width: 50%;
+    }
+    
+    .row:after {
+        padding: 0;
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    .list-lang {
+        justify-content: center;
+        text-align: center;
+    }
+
+    .list-lang > img {
+        border-radius: 25px;
+    }
+
+    li {
+        list-style: none;
+    }
+
+    .about {
+        text-align: center;
+    }
+
+    .list-sosmed {
+        justify-content: center;
+        text-align: center;
+    }
+
+    .list-sosmed > a > img {
+        border-radius: 25px;
+    }
+
+    .a {
+        border-radius: 25px;
+    }
+</style>
+
 <p align="center">
    <img style="width: 180px; height: 180px;" src="https://avatars.githubusercontent.com/u/57594747?s=400&u=da1eec8bf84a62a2ca11230d358dfac0bb000bcd&v=4" alt="png" width="128" height="128"/>
 </p>
 
 <p align="center">
-   <a href="https://github.com/MrG3P5"><img title="X-MrG3P5" src="https://img.shields.io/badge/X MrG3P5-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-
-<p align="center">
-   <b>About Me</b>
-</p>
-
-<p align="center">
-   <li align="center">👋 Hello I'm X - MrG3P5</li>
-   <li align="center">📌 I'm Live on Jakarta</li>
-   <li align="center">▫️ My Hobbies is Coding & Reverse Engineering & Pentesting</li>
+    <a href="https://github.com/MrG3P5">
+        <img title="X-MrG3P5" class="a" src="https://img.shields.io/badge/X MrG3P5-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
+    </a>
+    <br>
+    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMrG3P5">
+        <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMrG3P5&label=VISITOR&labelColor=%2337d67a&countColor=%23d9e3f0&style=plastic&labelStyle=upper"/>
+    </a>
 </p>
 
 <hr>
 
-<p align="center">
-   <b>Socials</b>
-</p>
+<div style="text-align: center;">
+    <span><b>ABOUT ME :</b></span>
+</div>
 
-<p align="center">
-   <a href="https://instagram.com/xmrg3p5"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-   <a href="https://t.me/xmrg3p5"><img src="https://img.shields.io/badge/Telegram-%23118EEA.svg?logo=Telegram&logoColor=white"></a>
-   <a href="https://wa.me/6289523258649"><img src="https://img.shields.io/badge/Whatsapp-%23017e40.svg?logo=Whatsapp&logoColor=white"></a>
-<p>
+<div class="about">
+    <div>
+        <li>👋 Hello I'm X - MrG3P5</li>
+        <li>📌 I'm Live on Jakarta</li>
+        <li>📌 My Hobbies is Coding & Reverse Engineering & Pentesting</li>
+    </div>
+</div>
 
 <hr>
 
-<p align="center">
-   <b>Language</b>
-</p>
+<div style="text-align: center;">
+    <span><b>SOCIAL :</b></span>
+</div>
 
-<p align="center">
-   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-<p>
+<div class="list-sosmed">
+    <a href="https://instagram.com/xmrg3p5">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+    </a>
+    <a href="https://t.me/xmrg3p5">
+        <img src="https://img.shields.io/badge/Telegram-%23118EEA.svg?logo=Telegram&logoColor=white">
+    </a>
+    <a href="https://wa.me/6289523258649">
+        <img src="https://img.shields.io/badge/Whatsapp-%23017e40.svg?logo=Whatsapp&logoColor=white">
+    </a>
+</div>
+
+<hr>
+
+<div style="text-align: center;">
+    <span><b>LANGUAGE :</b></span>
+</div>
+
+<div class="list-lang">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+</div>
+
+<hr>
+
+<div style="text-align: center;">
+    <span><b>CERTIFICATE :</b></span>
+</div>
+
+<div class="row">
+    <div class="column">
+        <img src="https://raw.githubusercontent.com/MrG3P5/MrG3P5/main/cert_compTIA_pentest.png">
+    </div>
+    <div class="column">
+        <img src="https://raw.githubusercontent.com/MrG3P5/MrG3P5/main/cert_complete_beginner.png">
+    </div>
+    <div class="column">
+        <img src="https://raw.githubusercontent.com/MrG3P5/MrG3P5/main/cert_offensive_pentest.jpg">
+    </div>
+    <div class="column">
+        <img src="https://raw.githubusercontent.com/MrG3P5/MrG3P5/main/cert_pre_security.png">
+    </div>
+</div> 
 
 <hr>
 
