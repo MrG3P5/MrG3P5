@@ -66,10 +66,10 @@
 </div>
 
 <div align="center">
-    <img width="300px" height="300px" src="https://raw.githubusercontent.com/MrG3P5/MrG3P5/main/cert_compTIA_pentest.png">
-    <img width="300px" height="300px" src="https://raw.githubusercontent.com/MrG3P5/MrG3P5/main/cert_complete_beginner.png">
-    <img width="300px" height="300px" src="https://raw.githubusercontent.com/MrG3P5/MrG3P5/main/cert_offensive_pentest.jpg">
-    <img width="300px" height="300px" src="https://raw.githubusercontent.com/MrG3P5/MrG3P5/main/cert_pre_security.png">
+    <img width="300px" height="150px" src="https://raw.githubusercontent.com/MrG3P5/MrG3P5/main/cert_compTIA_pentest.png">
+    <img width="300px" height="150px" src="https://raw.githubusercontent.com/MrG3P5/MrG3P5/main/cert_complete_beginner.png">
+    <img width="300px" height="150px" src="https://raw.githubusercontent.com/MrG3P5/MrG3P5/main/cert_offensive_pentest.jpg">
+    <img width="300px" height="150px" src="https://raw.githubusercontent.com/MrG3P5/MrG3P5/main/cert_pre_security.png">
 </div> 
 
 <hr>
