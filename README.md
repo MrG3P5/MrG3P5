@@ -31,9 +31,6 @@
 </div>
 
 <div align="center">
-    <a href="https://instagram.com/xmrg3p5">
-        <img style="border-radius: 25px;" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
-    </a>
     <a href="https://t.me/xmrg3p5">
         <img style="border-radius: 25px;" src="https://img.shields.io/badge/Telegram-%23118EEA.svg?logo=Telegram&logoColor=white">
     </a>
