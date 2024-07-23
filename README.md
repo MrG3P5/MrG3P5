@@ -34,9 +34,6 @@
     <a href="https://t.me/xmrg3p5">
         <img style="border-radius: 25px;" src="https://img.shields.io/badge/Telegram-%23118EEA.svg?logo=Telegram&logoColor=white">
     </a>
-    <a href="https://wa.me/6289523258649">
-        <img style="border-radius: 25px;" src="https://img.shields.io/badge/Whatsapp-%23017e40.svg?logo=Whatsapp&logoColor=white">
-    </a>
 </div>
 
 <hr>
